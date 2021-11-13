@@ -14,7 +14,7 @@ class settings:
     YearsToGoBack = 3
     RiskFreeRate = 0
     CompanyFetchMode = "PreFixed" #Auto
-    MyCompanies = ['ZM','UBER','SWI','RNG','CRWD', 'WDAY', 'SYMC']
+    MyCompanies = ['ZM','UBER','SWI','RNG','CRWD', 'WDAY', 'TXN']
     PortfolioOptimisationPath = './PortfolioOptimisation.xlsx'
     RiskFunction = risk_return_calculator.calculate_portfolio_risk
     ReturnFunction = risk_return_calculator.calculate_portfolio_expectedreturns
